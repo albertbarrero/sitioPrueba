@@ -1,0 +1,21 @@
+label{
+    color: brown;
+}
+
+#nom{
+    color: chartreuse;
+    font-family:'NotoSansJP-VariableFont_wght';
+    font-size: 30px;
+    font-weight:bold;
+    font-style:italic;
+
+}
+
+
+
+
+.nom1{
+    color: red;
+    
+}
+

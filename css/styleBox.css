@@ -1,0 +1,31 @@
+/* body{
+    margin: 0;
+    padding: 0;
+} */
+
+#caja1{
+    width: 100px;
+    height: 100px;
+    background: #ff8800;
+    margin-bottom: 10px;
+    border: solid 5px;
+}
+
+#caja2{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: solid 5px;
+    /* box-sizing: border-box; */
+    box-sizing: content-box;
+}
+
+#img{
+    text-align: center;
+    
+}
+
+img{
+    width: 50px;
+}
+

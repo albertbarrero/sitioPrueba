@@ -1,0 +1,39 @@
+.card{
+    width: 600px;
+    height: 450px;
+    border: solid 3px #000;
+    margin: auto;
+    text-align: center;
+    background:#ff5555;
+    
+}
+
+.card_image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 5px;
+    border: solid;
+}
+
+.card_content{
+    background: #ff0000;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+    color: #ffffff;
+    border: solid;
+}
+
+.card_subtittle{
+    color: #9900dd;
+    letter-spacing: 5px;
+    border:solid;
+    margin: 5px;
+}
+
+.card_title{
+    color:red;
+    text-shadow: 0 0 8px #9900dd;
+}
+
